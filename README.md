@@ -1,7 +1,7 @@
 
 
 
-# I code in Rust because Rust is god. 
+# I like Rust lang the most, as it is far superior to other langs. 
 
 ![b](https://github.com/user-attachments/assets/983f9f08-6499-4e8b-ba8c-c206f4c2ca6c)
 

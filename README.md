@@ -2,11 +2,11 @@
 
 
 
-# I like Rust lang the most, as it is far superior to other langs. 
+# Rust Lang is god. 
 
 I have done lots of different things via polymorphic handles-, never for money and always with integrity. 
 
-All apps here are strictly as is. 
+All apps here are strictly as is. I make no claim or warranty of any app here. 
 
 
 

@@ -1,9 +1,12 @@
+![b](https://github.com/user-attachments/assets/983f9f08-6499-4e8b-ba8c-c206f4c2ca6c)
 
 
 
 # I like Rust lang the most, as it is far superior to other langs. 
 
-![b](https://github.com/user-attachments/assets/983f9f08-6499-4e8b-ba8c-c206f4c2ca6c)
+I have done lots of different things via polymorphic handles-, never for money and always with integrity. 
+
+All apps here are strictly as is. 
 
 
 ![8](https://github.com/user-attachments/assets/506d176e-b5a9-449f-b98a-611d8d502bc1)

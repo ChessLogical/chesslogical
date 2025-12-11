@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8e42f195-f031-4d9f-83bd-72256219118f)
+
 
 
 # I code in Rust because Rust is god. 

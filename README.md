@@ -2,7 +2,7 @@
 
 
 
-# Rust Lang is god. 
+# Rust lang is god. 
 
 I have done lots of different things via polymorphic handles-, never for money and always with integrity. 
 
